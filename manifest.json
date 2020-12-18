@@ -4,7 +4,7 @@
 	"name": "Bingo",
 	"short_name": "Bingo",
 	"display": "minimal-ui",
-	"start_url": "https://sprinteins.github.io/bingo/",
+	"start_url": "/bingo/index.html",
 	"icons": [
 		{
 			"src": "logo-192.png",
