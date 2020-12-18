@@ -4,7 +4,7 @@
 	"name": "TODO",
 	"short_name": "TODO",
 	"display": "minimal-ui",
-	"start_url": "/bingo",
+	"start_url": "https://sprinteins.github.io/bingo/",
 	"icons": [
 		{
 			"src": "logo-192.png",
