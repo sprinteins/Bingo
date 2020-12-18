@@ -4,7 +4,7 @@
 	"name": "Bingo",
 	"short_name": "Bingo",
 	"display": "minimal-ui",
-	"start_url": "/bingo/index.html",
+	"start_url": "/bingo/",
 	"icons": [
 		{
 			"src": "logo-192.png",
