@@ -1,8 +1,8 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
+	"name": "Bingo",
+	"short_name": "Bingo",
 	"display": "minimal-ui",
 	"start_url": "https://sprinteins.github.io/bingo/",
 	"icons": [
